@@ -8,7 +8,7 @@ import '../widgets/appbar.dart';
 
 WebViewController? _controller;
 
-
+//hacktober fest
 class WebPage extends StatelessWidget { const
 WebPage({Key? key, required this.url, required this.title}) : super(key: key);
 final String url;
